@@ -1,0 +1,7 @@
+C|Clar Leynon|8975
+P|Nike|Running Shoes|8|4|2499.0|9996.0|2026-10-29 13:47:57
+P|Nike|Running Shoes|8|6|2499.0|14994.0|2026-10-29 16:04:15
+C|Jezer|84888
+P|Nike|Running Shoes|8|5|2499.0|12495.0|2026-10-29 17:31:02
+C|Customer|3132
+C|Viladas|91904
